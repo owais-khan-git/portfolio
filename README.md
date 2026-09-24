@@ -18,7 +18,7 @@ covering who I am, my skills, and how to get in touch.
 
 ## Running locally
 
-Clone the repo and open `index.html` in a browser — no build step needed.
+Clone the repo and open `index.html` in a browser, no build step needed.
 
 ```bash
 git clone https://github.com/owais-khan-git/portfolio.git
